@@ -32,7 +32,7 @@ For the common user: here is a normal game if you just "play" it.
 ~# crack.me is a normal file on your <%skyadir%>, just keep delete it and do not trying to export/hook this on-using file.
 
 if the some game character are doing abnormal actions (as well as the character instand of your appearence), please force-shutdown the game 
-and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO`ed! gff-hehehehheh!
+and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO`ed! gff-hehehehheh!:trollface:
 <!--be aware of the character that is called 'the bugbear'-->
 
 ------------------------------
@@ -50,7 +50,7 @@ and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO
 ## Building or Testing 🧰
 
 > [!TIP]
-> **NOT SUPPORTED ON MOBILE DEVICES**
+> **NOT SUPPORTED ON MOBILE DEVICES** 📱
 
 ### To building.
 
@@ -69,3 +69,16 @@ and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO
 
 - 👉 testing on Unix/Linux:
 1. download the latest release from (NOT AVAILABLE YET)~~[latest-release page](https://github.com/Gulfy034/SKYA_Project_DEMO/releases/latest)~~ and extract it.
+2. install the package you have selected the currect version. (or install it in [flatpak](http://www.flatpak.com) if you want)
+3. wait the package has been installed, run the game WITHOUT SU PERMISSION[^3].
+
+[^1]:the security of Windows is obvious to all. That is why i recommanded to run the game under the condition that the your antivirus software is open and up-to-date. 🦺 
+[^2]:this game wont be more dispuptive in your device, but it is still a T-level. ☑️
+[^3]:To make sure the game is running without excessive abnormal behevior and some unnecessary MENTAL loss in Linux/UNIX, plz try to run in a low permission environment. 🉑
+
+## Things to do.
+
+- [x] created repo and push a unfinished frame. 📌
+- [ ] make it available to ~~complied~~ compiled. 👨‍🏭🤖
+- [ ] completed & release a version. 📂
+- [ ] find&crash more bugs. 📜
