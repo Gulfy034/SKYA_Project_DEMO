@@ -5,4 +5,10 @@
 *.translation
 
 # Godot android build ignores
-.android/
+android/
+
+# These unformatted readme files ignores
+*.md
+
+# These file may cause personal-info leaks ignores
+*.import

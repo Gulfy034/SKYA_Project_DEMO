@@ -1,0 +1,46 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="SKYA_Project_Demo"
+config/description="A game project that was called the SKYA_Project.
+Still in development."
+config/version="0.0.1"
+config/features=PackedStringArray("4.2", "Forward Plus")
+boot_splash/bg_color=Color(0.0784314, 0.156863, 0.341176, 1)
+boot_splash/image="res://SKYA_1.png"
+
+[autoload]
+
+Firebase="*res://addons/godot-firebase/firebase/firebase.tscn"
+
+[dotnet]
+
+project/assembly_name="SKYA_Project_Demo"
+
+[editor]
+
+version_control/plugin_name="GitPlugin"
+version_control/autoload_on_startup=true
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot-firebase/plugin.cfg")
+
+[importer_defaults]
+
+animation_library={
+"animation/fps": 60.0
+}
+
+[input_devices]
+
+pointing/android/enable_pan_and_scale_gestures=true
