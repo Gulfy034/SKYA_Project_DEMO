@@ -10,5 +10,5 @@ android/
 # These unformatted readme files ignores
 *.md
 
-# These file may cause personal-info leaks ignores
-*.import
+# These file may cause personal-info leaks
+# *.import
