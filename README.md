@@ -1,5 +1,7 @@
 # SKYA_Project_DEMO releases & resources
 
+<img src="./SKYA_1.png" style="border-color: #2bad1a"/>
+
 EN/[CN](README_zh-CN.md)
 
 ~ this repo is totally for the early gamedev ready-to-run and performance tests in different platform.
@@ -18,26 +20,26 @@ EN/[CN](README_zh-CN.md)
 
 ! 3mulɑtioN: 📱 Cheat this game is *reasonable*, ** but do not let SOME characters know you are in debug-mode.**
 
+## Introducion:
+~# well heeeeelllol to your guys to this [ never-been-finished ] project. Enter your `<username>` here to launch this c-ode-stac-k.
+
+- Game art&music with {personal} features, {character} with {Definiable characteristics} and very different personalities!
+
+- ~~Many [function] and [hookpoint] to explore!~~ oh-huh i mean, many interesing places to explore! Geez too many i cant `holdit --down`.
+
 ------------------------------
 
-### Introducion:
-~# well heeeeelllol to your guys to this [never-been-finished] project. Enter your *<username>* here to launch this c-ode-stac-k.
+## For the common user:
 
-Game art&music with {personal} features, {character} with {Definiable characteristics} and very different personalities!
-
-~~Many [function] and [hookpoint] to explore!~~ oh-huh i mean, many interesing places to explore! Geez too many i cant `holdit --down`.
-
-For the common user: here is a normal game if you just "play" it.
+here is a normal game if you just "play" it.
 
 ~# crack.me is a normal file on your <%skyadir%>, just keep delete it and do not trying to export/hook this on-using file.
 
 if the some game character are doing abnormal actions (as well as the character instand of your appearence), please force-shutdown the game 
-and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO`ed! gff-hehehehheh!:trollface:
+and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO`ed! gff-hehehehheh! :trollface:
 <!--be aware of the character that is called 'the bugbear'-->
 
-------------------------------
-
-## Getting Start 🌟
+### Getting Start 🌟
 ~ this is a game demo created by [Godot engine](https://godotengine.org/) ver4.2.1.
 
 > [!TIP]
@@ -47,7 +49,7 @@ and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO
 ~ **do not run it on the web browser**, or you will get tons of >2 err0rz m3eessagez >nul.
 
 -----
-## Building or Testing 🧰
+### Building or Testing 🧰
 
 > [!TIP]
 > **NOT SUPPORTED ON MOBILE DEVICES** 📱
