@@ -14,13 +14,15 @@ config/name="SKYA_Project_Demo"
 config/description="A game project that was called the SKYA_Project.
 Still in development."
 config/version="0.0.1"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/tags=PackedStringArray("3d", "demo", "meta", "pixel", "skya_project")
+config/features=PackedStringArray("4.3", "Forward Plus")
 boot_splash/bg_color=Color(0.0784314, 0.156863, 0.341176, 1)
 boot_splash/image="res://SKYA_1.png"
 
-[autoload]
+[display]
 
-Firebase="*res://addons/godot-firebase/firebase/firebase.tscn"
+window/subwindows/embed_subwindows=false
+window/stretch/scale_mode="integer"
 
 [dotnet]
 
@@ -28,12 +30,20 @@ project/assembly_name="SKYA_Project_Demo"
 
 [editor]
 
+movie_writer/fps=120
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
 
-[editor_plugins]
+[file_customization]
 
-enabled=PackedStringArray("res://addons/godot-firebase/plugin.cfg")
+folder_colors={
+"res://addons/": "gray",
+"res://assets/": "yellow",
+"res://ios_plugins/": "gray",
+"res://scenes/": "blue",
+"res://scripts/": "teal",
+"res://shaders/": "green"
+}
 
 [importer_defaults]
 

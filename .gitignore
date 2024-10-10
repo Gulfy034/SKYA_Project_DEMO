@@ -12,3 +12,7 @@ android/
 
 # These file may cause personal-info leaks
 # *.import
+
+# These are some addons can be ignored
+addons/
+ios_plugins/
