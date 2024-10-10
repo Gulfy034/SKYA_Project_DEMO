@@ -15,4 +15,5 @@ android/
 
 # These are some addons can be ignored
 addons/
+
 ios_plugins/
