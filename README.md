@@ -2,6 +2,8 @@
 
 EN/[CN](README_zh-CN.md)
 
+
+<!--
 <style>
     body{
         font: "XTypewriter-Regular";
@@ -31,8 +33,9 @@ EN/[CN](README_zh-CN.md)
         scr: url("/doc/fonts/XTypewriter-Regular.woff2") format('woff2');
     }
 </style>
+-->
 
-~ <span>this gamedev is totally for early ready-to-run performance tests.</span>
+~ <span style="color: #2bad1a;">this gamedev is totally for early ready-to-run performance tests.</span>
 
 > [!WARNING]
 > **<p style="color: orange">The characters & sites within this game are not connected to any person/organization/locates in reality, and the game's use of the engine, as well as any and all related in-game narratives and character nouns, in-game lines, and their derived cyber-stalks have no reality to point to, so don't bring it into the reality of experiencing this game!!!!</p>**
@@ -50,31 +53,32 @@ EN/[CN](README_zh-CN.md)
 
 ------------------------------
 
-## <h2>Gameplay & Genres🕹️</h2>
+## <h2 style="color: #dcc833;">Gameplay & Genres🕹️</h2>
 
 ! Genres/label: 3D-pixel, mockumentary(?), nonlinear-storytelling, lite-ACT, RPG, Singe-Player, meta.
 
-! Gameplay: you need a **<span>IO-Controller</span>** to control, and eNjoY?
+! Gameplay: you need a **IO-Controller** to control, and eNjoY?
 
 ! 3mulɑtioN: it's *okay* to cheat this game. **but do not let SOME characters know you are in debug-mode**
 
-### <h3>Introducion :</h3>
+### <h3 style="color: #dcc833;">Introducion :</h3>
 
-<span>~# well heeeeelllol to your guys to this **[never-been-finished]** project. Enter your __*<username>*__ here to launch this c-ode-stac-k.</span>
+~# well heeeeelllol to your guys to this **[never-been-finished]** project. Enter your __< 'username' >__ here to launch this c-ode-stac-k.
 
-Game art&music with <span>{personal}</span> features, <span>{character}</span> with {Definiable characteristics} and very different personalities!
+~# Game art&music with <span style="color: #2bad1a">{personal}</span> features, <span style="color: #2bad1a">{character}</span> with <span style="color: #2bad1a">{Definiable characteristics}</span> and very different personalities!
 
-~~Many <span>[functions()]</span> and <span>[hookpoints=>]</span> to explore!~~ oh-huh i mean, many interesing places to explore! ~~Geez too many i cant `holdit --down`~~.
+~# ~~Many <span style="color: #2bad1a">[functions()]</span> and <span style="color: #2bad1a">[hookpoints=>]</span> to explore!~~ oh-huh i mean, many interesing places to explore! ~~Geez too many i cant `holdit --down`~~.
 
-For the common user: just a normal game if you just "play" it.
+~# For the common user: just a normal game if you just "play" it.
 
-<span>~# 'crack.me' is a normal file on your <%skyadir%>, just keep delete it and do not trying to export/hook this on-using file.</span>
+~# 'crack.me' is a normal file on your <%skyadir%>, just keep delete it and do not trying to export/hook this on-using file.
 
-<p class="auguroz">if the some game character are doing abnormal actions (as well as the character instand of your appearence), please force-shutdown the game 
-and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO`ed! gff-hehehehheh!</p>
+<p style="color: #eee1;">~# if the some game character are doing abnormal actions (as well as the character instand of your appearence), please force-shutdown the game 
+and follow your manual to clean/reset your save-file.</p>
+<p style="color: #eee1">~!# or you will be `get-ECHO`ed! gff-hehehehheh!</p>
 <!--be aware of the character that is called 'the bugbear'-->
 
-## <h2>Getting Start 🌟</h2>
+## <h2 style="color: #dcc833;">Getting Start 🌟</h2>
 
 > [!TIP]
 > to run it probably in Windows10/11, make sure you have installed [.Net 8.0 framework](https://dotnet.microsoft.com/download/dotnet/8.0) or higher.
@@ -83,16 +87,16 @@ and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO
 
 ~ this is not built for browsers, or may get tons of >2 err0rz m3eessagez >nul.
 
-## <h2>Building and Testing 🧰</h2>
+## <h2 style="color: #dcc833;">Building and Testing 🧰</h2>
 
 > [!TIP]
 > **NOT SUPPORTED ON MOBILE DEVICES YET** 📱
 
-### <h3>To building.</h3>
+### <h3 style="color: #dcc833;">To building.</h3>
 
 - (Unfinished yet.)
 
-###  <h3>To testing.</h3>
+###  <h3 style="color: #dcc833;">To testing.</h3>
 
 - 👉 testing on Microsoft™ Windows<sup>©</sup>:
 
@@ -116,7 +120,7 @@ and follow your manual to clean/reset your save-file, ~ or you will be `get-ECHO
 [^2]:this game wont be more dispuptive in your device, but still a T-level.
 [^3]:To make sure the game is running without excessive abnormal behevior and some unnecessary MENTAL loss in Linux/UNIX, plz try to run in a low permission environment.
 
-## <h2>Things to do.</h2>
+## <h2 style="color: #dcc833;">Things to do.</h2>
 
 - [x] created repo and push a unfinished frame. 📌
 - [ ] make it available to ~~complied~~ compiled. 👨‍🏭🤖

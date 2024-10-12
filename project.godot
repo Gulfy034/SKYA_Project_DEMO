@@ -12,12 +12,16 @@ config_version=5
 
 config/name="SKYA_Project_Demo"
 config/description="A game project that was called the SKYA_Project.
-Still in development."
+Still on development."
 config/version="0.0.1"
 config/tags=PackedStringArray("3d", "demo", "meta", "pixel", "skya_project")
 config/features=PackedStringArray("4.3", "Forward Plus")
 boot_splash/bg_color=Color(0.0784314, 0.156863, 0.341176, 1)
 boot_splash/image="res://SKYA_1.png"
+
+[collada]
+
+use_ambient=true
 
 [display]
 
@@ -54,3 +58,8 @@ animation_library={
 [input_devices]
 
 pointing/android/enable_pan_and_scale_gestures=true
+
+[rendering]
+
+rendering_device/driver.windows="d3d12"
+gl_compatibility/nvidia_disable_threaded_optimization=false
