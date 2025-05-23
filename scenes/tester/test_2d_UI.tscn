@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://da3icdj0bmn5f"]
+
+[node name="Test2dUi" type="Node2D"]
+
+[node name="Window" type="Window" parent="."]
+size = Vector2i(700, 400)
