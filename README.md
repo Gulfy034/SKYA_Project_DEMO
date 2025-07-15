@@ -1,8 +1,5 @@
 # SKYA_Project_DEMO releases & resources
 
-EN/[中文](README_zh-CN.md)
-
-
 <!--
 
 oh data miner, nice to meet to ya.
@@ -62,16 +59,22 @@ the demo game was created by [toadot](https://github.com/Gulfy034/toadot) the mo
 
 ~ i like bugs, so i made a bug producer program ~~(yes this game)~~.
 
-## <h2 style="color: #dcc833;">Building and Testing 🧰</h2>
+## <h2 style="color: #dcc833;">Bulid, play or test:</h2>
 
 > [!TIP]
 > **NOT SUPPORTED ON MOBILE DEVICES YET** 📱
 
-### <h3 style="color: #dcc833;">To building.</h3>
+### <h3 style="color: #dcc833;">Build from the source:</h3>
 
 - (Unfinished yet.)
 
-###  <h3 style="color: #dcc833;">To testing.</h3>
+###  <h3 style="color: #dcc833;">Play it 🎮:</h3>
+
+<h4 style="color: #dcc833;">Get the game on itch.io</h4>
+
+<iframe frameborder="0" src="https://itch.io/embed/2630275?bg_color=142857&amp;fg_color=2bad1a&amp;link_color=2bad1a&amp;border_color=345bb4" width="552" height="167"><a href="https://gulfy-n0rris.itch.io/skya-project-demo">SKYA_Project_DEMO by Gulfieen_N0rris</a></iframe>
+
+<h4 style="color: #dcc833;">Get the game directly on Github</h4>
 
 - Microsoft Windows:
 
@@ -79,11 +82,11 @@ the demo game was created by [toadot](https://github.com/Gulfy034/toadot) the mo
 2. run the setup.exe and install it. (install it in [Sandboxie](https://sandboxie-plus.com) if you want)
 3. run the game WITHOUT ADMINISTRATOR PERMISSION[^1].
 
-  Mac:
+- Mac:
 
 1. download the latest release form ~~[NOT AVAILABLE YET](https://github.com/Gulfy034/SKYA_Project_DEMO/releases/latest)~~ and extract it.
 2. run the install.dmg/install.app and install it.
-3. run the game IN NON-ROOT-USER[^2].
+3. run the game WITHOUT ROOT[^2].
 
 - Unix/Linux:
 
