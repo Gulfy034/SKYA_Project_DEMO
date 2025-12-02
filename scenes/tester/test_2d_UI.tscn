@@ -3,4 +3,7 @@
 [node name="Test2dUi" type="Node2D"]
 
 [node name="Window" type="Window" parent="."]
+position = Vector2i(0, 36)
 size = Vector2i(700, 400)
+
+[node name="TestSprite2D" type="Sprite2D" parent="."]
